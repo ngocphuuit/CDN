@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: puresol
+  api_key: '622427821783647'
+  api_secret: r5Jud0UYKZ-qfONjt1TL-X4x01w
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: puresol
+  api_key: '622427821783647'
+  api_secret: r5Jud0UYKZ-qfONjt1TL-X4x01w
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: puresol
+  api_key: '622427821783647'
+  api_secret: r5Jud0UYKZ-qfONjt1TL-X4x01w
+  enhance_image_tag: true
+  static_image_support: false
